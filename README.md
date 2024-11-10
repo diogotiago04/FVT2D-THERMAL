@@ -21,7 +21,7 @@ FVT2DTHERMAL is an open-source MATLAB® implementation for verifying the tempera
 To exemplify the range of values for fx1 and fx2, we will use a discretized mesh of 50 x 50 subvolumes. In this case, the faces for fx1 are numbered in the following sequence: 1, 2, 3, 4, ..., 50, while the faces for fx2 follow the progression: 1, 51, 101, 151, ..., 2501.
 
 # AUTHORS' CONTACT
-Profº. Dr. Profº Dr. Márcio André Araújo Cavalcante - marcio.cavalcante@ceca.ufal.br
-Profº. Dr. Romildo dos Santos Escarpini Filho - romildo.escarpini@penedo.ufal.br
+Profº. Dr. Profº Dr. Márcio André Araújo Cavalcante - marcio.cavalcante@ceca.ufal.br  
+Profº. Dr. Romildo dos Santos Escarpini Filho - romildo.escarpini@penedo.ufal.br  
 PhD Student Diogo Tiago dos Santos - diogo.santos@ctec.ufal.br
 
